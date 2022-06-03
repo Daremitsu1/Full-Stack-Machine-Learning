@@ -11,6 +11,10 @@ Next, we will:-
 - Identify and drop unneeded columns with df.drop()
 - One-hot encode data using pd.get_dumimes()
 
+Then, we will:-
+- Train Python machine learning models with Scikit Learn
+- Perform automated hyperparameter tuning using GridSearchCV
+- Evaluate model performance with sklearn.metrics 
 
 Finally, we will be: 
 1. Saving models to Watson Machine Learning
