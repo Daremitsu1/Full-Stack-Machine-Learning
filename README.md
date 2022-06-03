@@ -10,3 +10,9 @@ Next, we will:-
 - Cast columns to new data stypes using  df[col].astype()
 - Identify and drop unneeded columns with df.drop()
 - One-hot encode data using pd.get_dumimes()
+
+
+Finally, we will be: 
+1. Saving models to Watson Machine Learning
+2. Creating online  deployments with Python
+3. Scoring our model using the Python API
