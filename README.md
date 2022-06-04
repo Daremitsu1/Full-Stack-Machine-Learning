@@ -1,6 +1,7 @@
 ## Full-Stack-Machine-Learning
 
 ### Architecture Diagram:
+![Architecture](Architecture.jpg)
 
 Initially the jupyter notebook will show you how to:-
 - How to work with data in Python
