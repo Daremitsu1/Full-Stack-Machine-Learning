@@ -36,7 +36,7 @@ Now onwards towards our app building! We will:
 
 | Notebooks | Images & Links |
 | -------------   | -------------  |
-| Jupyter Notebook |![jupyter](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/200px-Jupyter_logo.svg.png)|
+| Jupyter Notebook |![jupyter](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/100px-Jupyter_logo.svg.png)|
 
 
 | Libraries Used | Images & Links |
