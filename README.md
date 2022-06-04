@@ -53,4 +53,4 @@ Now onwards towards our app building! We will:
 
 | ML model Deployments | Images & Links |
 | -------------------  | -------------- |
-| Watson-Machine-Learning | ![Watson-ML](https://i.imgur.com/vS4xJke.png) |
+| Watson-Machine-Learning | <img src="https://i.imgur.com/vS4xJke.png" width="150"> |
