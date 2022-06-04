@@ -53,4 +53,4 @@ Now onwards towards our app building! We will:
 
 | ML model Deployments | Images & Links |
 | -------------------  | -------------- |
-| Watson-Machine-Learning | ![Watson-ML](https://cache.globalcatalog.cloud.ibm.com/api/v1/51c53b72-918f-4869-b834-2d99eb28422a/artifacts/cache/fd361695f313365fc98cdff9b2cbcfb2-public/MachineLearning--light.svg) |
+| Watson-Machine-Learning | ![Watson-ML](https://i.imgur.com/vS4xJke.png) |
