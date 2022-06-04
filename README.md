@@ -32,11 +32,11 @@ Now onwards towards our app building! We will:
 ### Dependencies:
 | Programming Languages Used | Images & Links |
 | -------------   | -------------  |
-| Python           |![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/100px-Jupyter_logo.svg.png)  |
+| Python           |![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/100px-Python-logo-notext.svg.png) |
 
 | Notebooks | Images & Links |
 | -------------   | -------------  |
-| Jupyter Notebook |![jupyter](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/100px-Python-logo-notext.svg.png)   |
+| Jupyter Notebook |![jupyter](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/200px-Jupyter_logo.svg.png)|
 
 
 | Libraries Used | Images & Links |
