@@ -1,5 +1,7 @@
 ## Full-Stack-Machine-Learning
 
+### Architecture Diagram:
+
 Initially the jupyter notebook will show you how to:-
 - How to work with data in Python
 - Conduct exploratory analysis using the Pandas library
