@@ -21,6 +21,11 @@ Finally, we will be:
 2. Creating online  deployments with Python
 3. Scoring our model using the Python API
 
+Now onwards towards our app building! We will:
+- Build application backends
+- Set up Node.JS and Express for ML
+- Make scoring requests with Javascript and Watson Machine Learning 
+
 ### Dependencies:
 | Programming Languages Used | Images & Links |
 | -------------   | -------------  |
@@ -33,3 +38,11 @@ Finally, we will be:
 | Matplotlib           |![Matplotlib](https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png)   |
 | Seaborn    | ![Seaborn](https://seaborn.pydata.org/_images/logo-tall-lightbg.svg)  | 
 | Scikit-learn | ![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/300px-Scikit_learn_logo_small.svg.png) |
+
+| Runtime environment | Images & Links |
+| ------------------  | -------------- |
+| Node.JS             | ![Node.JS](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/300px-Node.js_logo_2015.svg.png) |
+
+| ML model Deployments | Images & Links |
+| -------------------  | -------------- |
+| Watson-Machine-Learning | ![Watson-ML](https://cache.globalcatalog.cloud.ibm.com/api/v1/51c53b72-918f-4869-b834-2d99eb28422a/artifacts/cache/fd361695f313365fc98cdff9b2cbcfb2-public/MachineLearning--light.svg) |
