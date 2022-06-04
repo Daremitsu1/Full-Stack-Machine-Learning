@@ -21,11 +21,15 @@ Finally, we will be:
 2. Creating online  deployments with Python
 3. Scoring our model using the Python API
 
-Programming languages used: ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png)
+### Dependencies:
+| Programming Languages Used | Images & Links |
+| -------------   | -------------  |
+| Python           |![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/300px-Python-logo-notext.svg.png)   |
 
-Libraries used:
-- ![Numpy](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png)
-- ![Pandas](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png)
-- ![Matplotlib](https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png)
-- ![Seaborn](https://seaborn.pydata.org/_images/logo-tall-lightbg.svg)
-- ![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png)
+| Libraries Used | Images & Links |
+| -------------   | -------------  |
+| Numpy           |![Numpy](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/300px-NumPy_logo_2020.svg.png)   |
+| Pandas    | ![Pandas](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/300px-Pandas_logo.svg.png)  |
+| Matplotlib           |![Matplotlib](https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png)   |
+| Seaborn    | ![Seaborn](https://seaborn.pydata.org/_images/logo-tall-lightbg.svg)  | 
+| Scikit-learn | ![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/300px-Scikit_learn_logo_small.svg.png) |
